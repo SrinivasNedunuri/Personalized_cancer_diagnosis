@@ -15,6 +15,7 @@ The workflow is as follows
 Our goal here is to replace step 3 by a machine learning model. The molecular pathologist will still have to decide which variations are of interest, and also collect the relevant evidence for them. But the last step, which is also the most time consuming, will be fully automated.
 
 #Data Overview
+
 • We have two data files: one conatins the information about the genetic mutations and the other contains the clinical evidence (text) that human experts/pathologists use to classify the genetic mutations.
 • Both these data files are have a common column called ID
 • Data file's information:
